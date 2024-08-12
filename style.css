@@ -1,6 +1,6 @@
 
 body{
-    background-image: url("bg.jpg");
+    background-image: url("images/bg.jpg");
     background-size: cover;
     text-align: center;
     }
@@ -100,8 +100,8 @@ body{
     .btn{
         width: 100px;
         height: 40px;
-        background: #ff7708a2;
-        border: 2px solid #ff7300d2;
+        background: #aca39ca2;
+        border: 2px solid #ffffffd2;
         margin-top: 13px;
         color: #fff;
         font-size: 15px;
